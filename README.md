@@ -558,6 +558,13 @@ Die KI wurde verwendet für:
 
 - Brainstorming zur Projektidee
 - Strukturierung der README
+- Formulierung der Value Proposition
+- Ausarbeitung des Target Scopes
+- Erstellung der textuellen UI-Wireframes
+
+Ich habe die Inhalte geprüft, angepasst und stelle sicher, dass ich die eingereichten Inhalte erklären kann.
+
+Es wurde keine Agentic AI verwendet. Es wurden keine Dateien, Commits oder Repository-Strukturen automatisiert durch KI erstellt.
 ---
 
 ## 15. Quellen / References
