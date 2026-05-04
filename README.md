@@ -180,7 +180,9 @@ Für eine spätere Version kann erweitert werden, dass ein Nutzer beide Rollen g
 
 ## 10. UI-Scribbles / Textual Wireframes
 
-Da die Anwendung noch nicht implementiert ist, zeigen die folgenden textuellen Wireframes den geplanten visuellen Umfang der Web-App.
+Die folgenden textuellen Wireframes zeigen den geplanten visuellen Umfang der Web-App und dienen als erste UI-Scribbles für den Target Scope.
+
+Zusätzliche grafische UI-Screens sind aktuell in Arbeit und werden nachgereicht bzw. im Repository ergänzt. Die textuellen Wireframes in dieser README beschreiben bereits die geplanten Screens, deren zentrale Elemente und den vorgesehenen Nutzerfluss.
 
 Diese Wireframes dienen als Target Scope und zeigen, welche Screens für den MVP geplant sind.
 
